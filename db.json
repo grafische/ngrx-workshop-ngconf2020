@@ -17,6 +17,12 @@
       "name": "The Hobbit",
       "earnings": "100000000",
       "description": null
+    },
+    {
+      "id": "4589ed2b-4b3a-47e4-8767-4cf731915ba4",
+      "name": "Darekd",
+      "earnings": "50000",
+      "description": "first bookk"
     }
   ]
 }
